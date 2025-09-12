@@ -8,15 +8,13 @@
 此專案可作為端到端 (end-to-end) 的資料科學專案示範，適合展示在作品集或履歷中。
 
 ---
-## 使用的技能
+## 使用技能
 
-機器學習建模與模型保存 (scikit-learn, joblib)
+- 機器學習建模與模型保存 (scikit-learn, joblib)
+- FastAPI 建立與 Pydantic schema 驗證
+- API 測試與 Swagger 文件產生
+- Docker 容器化與部署基礎
 
-FastAPI 建立與 Pydantic schema 驗證
-
-API 測試與 Swagger 文件產生
-
-Docker 容器化與部署基礎
 ---
 
 ## 專案結構
