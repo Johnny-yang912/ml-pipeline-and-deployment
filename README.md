@@ -112,4 +112,6 @@ POST /predict_batch
 可移植性：支援容器化，能快速部署到任何環境。
 
 
+## 資料來源
+**kaggle** Shopping Trends And Customer Behaviour Dataset
 
