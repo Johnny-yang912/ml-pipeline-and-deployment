@@ -18,7 +18,7 @@
 ---
 
 ## 專案結構
-.
+```
 .
 ├─ pipeline_example.ipynb
 ├─ models/
@@ -32,7 +32,7 @@
 │  ├─ Dockerfile
 │  └─ .dockerignore
 └─ README.md
-
+```
 
 
 ---
