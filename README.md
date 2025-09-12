@@ -20,17 +20,17 @@
 ## 專案結構
 ```
 .
-├─ pipeline_example.ipynb
-├─ models/
-│  ├─ model.joblib
-│  └─ meta.json
-├─ API_deploy/
-│  ├─ app/
-│  │  ├─ main.py
-│  │  └─ schemas.py
-│  ├─ requirements.txt
-│  ├─ Dockerfile
-│  └─ .dockerignore
+├─ pipeline_example.ipynb # 資料分析與建模流程
+├─ models/ # 儲存的模型與設定
+│ ├─ model.joblib # 最佳模型 (Random Forest Pipeline)
+│ └─ meta.json # 模型 threshold 與版本資訊
+├─ API_deploy/ # FastAPI + Docker 部署程式碼
+│ ├─ app/
+│ │ ├─ main.py # FastAPI 主程式，封裝預測 API
+│ │ └─ schemas.py # Pydantic 資料結構 (輸入/輸出)
+│ ├─ requirements.txt # 需求套件
+│ ├─ Dockerfile # Docker 打包設定
+│ └─ .dockerignore # Docker 忽略清單
 └─ README.md
 ```
 
