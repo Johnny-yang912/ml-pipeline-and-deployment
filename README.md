@@ -1,5 +1,5 @@
 # ml-pipeline-and-deployment
-# Shopping Behavior Prediction & Model Deployment
+# 🛍️ 購物行為分析建模 (特徵工程+Pipeline機器學習建模與部署)
 
 ## 專案簡介
 本專案以購物行為資料為例，建立機器學習模型來預測並抓出潛在會員，並展示完整的資料科學建模與部署流程：  
