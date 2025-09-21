@@ -8,6 +8,11 @@
 此專案可作為端到端 (end-to-end) 的資料科學專案示範，適合展示在作品集或履歷中。
 
 ---
+
+## 專案連結
+[專案完整Notebooks: pipeline_example.ipynb](pipeline_example.ipynb)
+
+---
 ## 使用技能
 
 - 機器學習建模與模型保存 (scikit-learn, joblib)
